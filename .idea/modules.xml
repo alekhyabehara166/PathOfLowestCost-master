@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\alekh\Downloads\PathOfLowestCost-master\PathOfLowestCost-master\PathOfLowestCost.iml" filepath="C:\Users\alekh\Downloads\PathOfLowestCost-master\PathOfLowestCost-master\PathOfLowestCost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathOfLowestCost-master.iml" filepath="$PROJECT_DIR$/PathOfLowestCost-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\alekh\Downloads\PathOfLowestCost-master\PathOfLowestCost-master\app\app.iml" filepath="C:\Users\alekh\Downloads\PathOfLowestCost-master\PathOfLowestCost-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
